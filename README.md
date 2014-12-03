@@ -1,4 +1,6 @@
 videoscripts-php
 ================
 
-PHP adaptation of Videoscripts from fbonzon
+PHP adaptation of videoscripts from fbonzon
+
+More information on https://github.com/vlanard/videoscripts
